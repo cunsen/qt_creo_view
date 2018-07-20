@@ -39,9 +39,15 @@
     <ClCompile Include="CreoViewTest.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CvWidgetEx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CvWidgetEx.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
